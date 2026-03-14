@@ -48,7 +48,7 @@ export const timelineData = [
     color: "orange"
   },
   {
-    date: "Des 2025 - Mei 2026",
+    date: "Des 2025 - Agts 2026",
     title: "Pendampingan dan Pembimbingan",
     description: "Masa pendampingan dan pembimbingan calon pendeta",
     color: "orange"
