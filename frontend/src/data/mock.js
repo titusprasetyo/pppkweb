@@ -54,13 +54,13 @@ export const timelineData = [
     color: "orange"
   },
   {
-    date: "Juli 2026",
+    date: "Sep 2026",
     title: "Ujian Premtoar",
     description: "Ujian pra-pentahbisan",
     color: "orange"
   },
   {
-    date: "Agst 2026 - Jun 2027",
+    date: "Okt 2026 - Jun 2027",
     title: "Masa Vikariat",
     description: "Masa vikariat calon pendeta",
     color: "orange"
